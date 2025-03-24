@@ -1,5 +1,4 @@
-## **Note**
-This project was built upon **Brian Winn's** game development course on Coursera. Huge appreciation for his guidance and insights! !!!
+**Note:** This project was built upon **Brian Winn's** game development course on Coursera. Huge appreciation for his guidance and insights! !!!
 
 # **Roller Madness – 3D Action-Packed Coin Chase**  
 
